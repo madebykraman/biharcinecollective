@@ -652,6 +652,862 @@
       "tags": [
         "timeline"
       ]
+    },
+    {
+      "id": "film-lagi-nahi-chute-ram",
+      "entity_type": "film",
+      "name": "Lagi Nahin Chute Ram",
+      "status": "reviewed",
+      "summary": "A landmark early Bhojpuri film frequently cited in histories of the regional industry.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 1963,
+      "release_year": 1963,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-ganga-1965",
+      "entity_type": "film",
+      "name": "Ganga",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri film directed by Kundan Kumar and cited as a commercially successful release.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Media_in_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-hamar-bhauji",
+      "entity_type": "film",
+      "name": "Hamar Bhauji",
+      "status": "reviewed",
+      "summary": "A Bhojpuri film from the 1980s revival period.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Media_in_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 1983,
+      "release_year": 1983,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-mai-1989",
+      "entity_type": "film",
+      "name": "Mai",
+      "status": "reviewed",
+      "summary": "A Bhojpuri film from the late-1980s period.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Media_in_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 1989,
+      "release_year": 1989,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-saiyyan-hamar",
+      "entity_type": "film",
+      "name": "Saiyyan Hamar",
+      "status": "reviewed",
+      "summary": "Film associated with the early-2000s revival and Ravi Kishan's rise in Bhojpuri cinema.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 2001,
+      "release_year": 2001,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-panditji-batai-na-biyah-kab-hoi",
+      "entity_type": "film",
+      "name": "Panditji Batai Na Biyah Kab Hoi",
+      "status": "reviewed",
+      "summary": "A commercially successful Bhojpuri film from the industry's 2000s expansion.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-sasura-bada-paisa-wala",
+      "entity_type": "film",
+      "name": "Sasura Bada Paisa Wala",
+      "status": "reviewed",
+      "summary": "A commercially successful Bhojpuri film associated with the industry's 2000s revival.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "film"
+      ],
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-mamta-gaave-geet",
+      "entity_type": "film",
+      "name": "Mamta Gaave Geet",
+      "status": "reviewed",
+      "summary": "An early Maithili film whose production began in the 1960s and whose release came later.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maithili_cinema",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 1982,
+      "release_year": 1982,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-garibak-beti",
+      "entity_type": "film",
+      "name": "Garibak Beti",
+      "status": "reviewed",
+      "summary": "A low-budget Maithili film cited as a regional success.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-mayak-karz",
+      "entity_type": "film",
+      "name": "Mayak Karz",
+      "status": "reviewed",
+      "summary": "Maithili film directed by Manoj Jha.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2010,
+      "release_year": 2010,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-sajana-ke-angana",
+      "entity_type": "film",
+      "name": "Sajana Ke Anagana Me Solah Singaar",
+      "status": "reviewed",
+      "summary": "A 2011 Maithili release from the modern regional cinema period.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2011,
+      "release_year": 2011,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-mukhiya-jee",
+      "entity_type": "film",
+      "name": "Mukhiya Jee",
+      "status": "reviewed",
+      "summary": "A 2011 Maithili release directed by Vikash Jha.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2011,
+      "release_year": 2011,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-ramaulwali",
+      "entity_type": "film",
+      "name": "An Ideal Lady - Ramaulwali",
+      "status": "reviewed",
+      "summary": "A Maithili film released in 2014.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2014,
+      "release_year": 2014,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-mithila-makhaan-2016",
+      "entity_type": "film",
+      "name": "Mithila Makhaan",
+      "status": "reviewed",
+      "summary": "Maithili film associated with the National Film Award for Best Maithili Film.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2016,
+      "release_year": 2016,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-khakadia-wali-bhauji",
+      "entity_type": "film",
+      "name": "Khagadiya Wali Bhauji",
+      "status": "reviewed",
+      "summary": "An early film cited in histories of Angika-language cinema.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bihari_culture",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Angika cinema",
+        "film"
+      ],
+      "year": 2007,
+      "release_year": 2007,
+      "language": [
+        "Angika"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-gamak-ghar-2019",
+      "entity_type": "film",
+      "name": "Gamak Ghar",
+      "status": "reviewed",
+      "summary": "Contemporary Maithili film that premiered at the Jio MAMI Mumbai Film Festival in 2019.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 2019,
+      "release_year": 2019,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "film-kanyadan-1965",
+      "entity_type": "film",
+      "name": "Kanyadan",
+      "status": "reviewed",
+      "summary": "Early Maithili film directed by Phani Majumdar, based on Harimohan Jha's novel.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maithili_cinema",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Maithili cinema",
+        "film"
+      ],
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature"
+    },
+    {
+      "id": "person-ravi-kishan",
+      "entity_type": "person",
+      "name": "Ravi Kishan",
+      "status": "reviewed",
+      "summary": "Actor associated with the early-2000s expansion of Bhojpuri cinema.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-kundan-kumar",
+      "entity_type": "person",
+      "name": "Kundan Kumar",
+      "status": "reviewed",
+      "summary": "Director associated with Ganga Maiyya Tohe Piyari Chadhaibo and Ganga.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-phani-majumdar",
+      "entity_type": "person",
+      "name": "Phani Majumdar",
+      "status": "reviewed",
+      "summary": "Director associated with early Maithili and Magadhi cinema.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maithili_cinema",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "regional cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-s-n-tripathi",
+      "entity_type": "person",
+      "name": "S. N. Tripathi",
+      "status": "reviewed",
+      "summary": "Director associated with Bidesiya.",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Media_in_Bihar",
+          "title": "Research source",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Bhojpuri cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-sushant-singh-rajput",
+      "entity_type": "person",
+      "name": "Sushant Singh Rajput",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as associated with Patna district.",
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Research source",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Hindi cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-neha-sharma",
+      "entity_type": "person",
+      "name": "Neha Sharma",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as associated with Bhagalpur.",
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Research source",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Hindi cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-nitu-chandra",
+      "entity_type": "person",
+      "name": "Nitu Chandra",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as associated with Patna.",
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Research source",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Hindi cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-vinay-pathak",
+      "entity_type": "person",
+      "name": "Vinay Pathak",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as associated with Bhojpur district.",
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Research source",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Hindi cinema",
+        "person"
+      ]
+    },
+    {
+      "id": "person-imtiaz-ali",
+      "entity_type": "person",
+      "name": "Imtiaz Ali",
+      "status": "reviewed",
+      "summary": "Filmmaker documented by the Bihar State Film Development and Finance Corporation as associated with Jamshedpur, then part of Bihar.",
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Research source",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar connection",
+            "film history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "Hindi cinema",
+        "person"
+      ]
     }
   ]
 }
