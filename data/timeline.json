@@ -1,0 +1,96 @@
+{
+  "version": "0.1.0",
+  "entries": [
+    {
+      "year": 1902,
+      "title": "Early exhibition in Patna",
+      "status": "needs-review",
+      "summary": "Sources describe the Elphinstone Theatre in Patna becoming the Elphinstone Cinema and screening silent films.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cinema_of_Bihar"
+      ]
+    },
+    {
+      "year": 1933,
+      "title": "Sound cinema arrives in Patna",
+      "status": "needs-review",
+      "summary": "Secondary histories place the opening of Patna's first sound theatre in the early 1930s.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cinema_of_Bihar"
+      ]
+    },
+    {
+      "year": 1961,
+      "title": "Magadhi cinema",
+      "status": "reviewed",
+      "summary": "Bihar Foundation identifies Bhaiyaa as the first Magadhi film.",
+      "sources": [
+        "https://biharfoundation.in/know-your-bihar/art-culture/culture"
+      ]
+    },
+    {
+      "year": 1962,
+      "title": "Bhojpuri cinema begins",
+      "status": "reviewed",
+      "summary": "Bihar Foundation identifies Ganga Maiyya Tohe Piyari Chadhaibo as the landmark beginning of Bhojpuri-language cinema.",
+      "sources": [
+        "https://biharfoundation.in/know-your-bihar/art-culture/culture"
+      ]
+    },
+    {
+      "year": 1963,
+      "title": "Lagi Nahin Chute Ram",
+      "status": "reviewed",
+      "summary": "Bihar Foundation describes the film as a historic Bhojpuri hit.",
+      "sources": [
+        "https://biharfoundation.in/know-your-bihar/art-culture/culture"
+      ]
+    },
+    {
+      "year": 1965,
+      "title": "Maithili cinema",
+      "status": "needs-review",
+      "summary": "Kanyadan is widely identified as the first Maithili feature, but sources differ on production and release chronology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maithili_cinema",
+        "https://en.wikipedia.org/wiki/Cinema_of_Bihar"
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Bhojpuri revival",
+      "status": "reviewed",
+      "summary": "Secondary histories identify Saiyyan Hamar as part of the industry's early-2000s revival.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cinema_of_Bihar"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Mithila Makhaan",
+      "status": "reviewed",
+      "summary": "Bihar Foundation records Mithila Makhaan's National Film Award recognition.",
+      "sources": [
+        "https://biharfoundation.in/know-your-bihar/art-culture/culture"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Gamak Ghar at MAMI",
+      "status": "reviewed",
+      "summary": "Secondary histories record Gamak Ghar's premiere at the Jio MAMI Mumbai Film Festival.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cinema_of_Bihar"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Bihar Film Promotion Policy",
+      "status": "verified",
+      "summary": "The state published the Bihar Film Promotion Policy 2024 to support production, infrastructure, employment and tourism.",
+      "sources": [
+        "https://film.bihar.gov.in/photo/Fpolicy24.pdf"
+      ]
+    }
+  ]
+}
