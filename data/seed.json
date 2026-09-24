@@ -3286,6 +3286,147 @@
         "patna",
         "research-lead"
       ]
+    },
+    {
+      "id": "org-federation-film-societies-india",
+      "entity_type": "organization",
+      "name": "Federation of Film Societies of India",
+      "status": "reviewed",
+      "summary": "National film-society federation with Patna Film Society documented as a founding member in the society's institutional history.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization",
+        "bihar"
+      ]
+    },
+    {
+      "id": "org-bihar-art-culture-youth-department",
+      "entity_type": "organization",
+      "name": "Department of Art, Culture & Youth, Government of Bihar",
+      "status": "reviewed",
+      "summary": "State department responsible for cultural policy and the Bihar Film Promotion Policy.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization",
+        "bihar"
+      ]
+    },
+    {
+      "id": "org-national-film-archive-india",
+      "entity_type": "organization",
+      "name": "National Film Archive of India",
+      "status": "reviewed",
+      "summary": "National film archive referenced by Patna Cine Society as a borrowing member relationship.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization",
+        "bihar"
+      ]
+    },
+    {
+      "id": "org-bihar-film-facilitation-office",
+      "entity_type": "organization",
+      "name": "Bihar Film Facilitation Office",
+      "status": "reviewed",
+      "summary": "Film facilitation infrastructure associated with Bihar's current production-support ecosystem.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization",
+        "bihar"
+      ]
+    },
+    {
+      "id": "event-patna-film-society-1951",
+      "entity_type": "event",
+      "name": "Patna Film Society formal establishment",
+      "status": "reviewed",
+      "summary": "Patna Cine Society's institutional history dates the formal committee-based establishment of Patna Film Society to 1951.",
+      "bihar_connections": [
+        "bihar-institution",
+        "bihar-event"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "event",
+        "bihar"
+      ]
     }
   ]
 }
