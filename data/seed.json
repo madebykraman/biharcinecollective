@@ -3427,6 +3427,1289 @@
         "event",
         "bihar"
       ]
+    },
+    {
+      "id": "film-punarmilan",
+      "entity_type": "film",
+      "name": "Punarmilan",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account identifies Punarmilan as the first feature film made in Bihar and Jharkhand, produced by Maharaja Bhupendra Narayan Singh of Deo and directed by Dhiren Ganguli.",
+      "year": 1931,
+      "release_year": 1931,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-nadiya-ke-paar-1948",
+      "entity_type": "film",
+      "name": "Nadiya Ke Paar",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account identifies Nadiya Ke Paar (1948) among Hindi films carrying Bhojpuri dialogue or songs.",
+      "year": 1948,
+      "release_year": 1948,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-ganga-jamuna-1961",
+      "entity_type": "film",
+      "name": "Ganga Jamuna",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account identifies Ganga Jamuna (1961) among Hindi films using Bhojpuri dialogue and songs.",
+      "year": 1961,
+      "release_year": 1961,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-teesri-kasam-1966",
+      "entity_type": "film",
+      "name": "Teesri Kasam",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account identifies Teesri Kasam (1966) among Hindi films carrying Bhojpuri dialogue and songs.",
+      "year": 1966,
+      "release_year": 1966,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-ayeel-basant-bahar-1966",
+      "entity_type": "film",
+      "name": "Ayeel Basant Bahar",
+      "status": "reviewed",
+      "summary": "A Bhojpuri film directed and produced by Shakti Samanta, documented in the Patna Cine Society's Bhojpuri cinema history.",
+      "year": 1966,
+      "release_year": 1966,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-lage-nahin-chute-ram-1964",
+      "entity_type": "film",
+      "name": "Lage Nahin Chute Ram",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri film associated with the formative period of the industry; listed in Patna Cine Society's historical account.",
+      "year": 1964,
+      "release_year": 1964,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-lohasingh-1966",
+      "entity_type": "film",
+      "name": "Loha Singh",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri film based around the legendary folk character Loha Singh; listed in Patna Cine Society's historical account.",
+      "year": 1966,
+      "release_year": 1966,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-balam-pardesiya-1979",
+      "entity_type": "film",
+      "name": "Balam Pardesiya",
+      "status": "reviewed",
+      "summary": "Bhojpuri film listed in Patna Cine Society's historical account of the industry's early decades.",
+      "year": 1979,
+      "release_year": 1979,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-rus-gailo-saiyan-hamar-1970",
+      "entity_type": "film",
+      "name": "Rus Gailo Saiyan Hamar",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri film listed in Patna Cine Society's historical account.",
+      "year": 1970,
+      "release_year": 1970,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-dharti-maiya-1981",
+      "entity_type": "film",
+      "name": "Dharti Maiya",
+      "status": "reviewed",
+      "summary": "Bhojpuri film listed in Patna Cine Society's historical account.",
+      "year": 1981,
+      "release_year": 1981,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-ganga-kinare-mere-gaon-1983",
+      "entity_type": "film",
+      "name": "Ganga Kinare Mere Gaon",
+      "status": "reviewed",
+      "summary": "Bhojpuri film listed in Patna Cine Society's historical account.",
+      "year": 1983,
+      "release_year": 1983,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-hamar-bhouji-1984",
+      "entity_type": "film",
+      "name": "Hamar Bhouji",
+      "status": "reviewed",
+      "summary": "Bhojpuri film directed by Kalpataru, listed in Patna Cine Society's historical account.",
+      "year": 1984,
+      "release_year": 1984,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-bihari-babu-1985",
+      "entity_type": "film",
+      "name": "Bihari Babu",
+      "status": "reviewed",
+      "summary": "Bhojpuri film directed by Dilip Bose and produced by Shatrughan Sinha, according to Patna Cine Society's historical account.",
+      "year": 1985,
+      "release_year": 1985,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-dagabaaz-balma-1988",
+      "entity_type": "film",
+      "name": "Dagabaaz Balma",
+      "status": "reviewed",
+      "summary": "Bhojpuri film directed by Arati Bhattacharya, identified by Patna Cine Society as an important early female-directed Bhojpuri film.",
+      "year": 1988,
+      "release_year": 1988,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-kab-hoega-gawna-hamar-2005",
+      "entity_type": "film",
+      "name": "Kab Hoega Gawna Hamar",
+      "status": "reviewed",
+      "summary": "Bhojpuri film produced by Udit Narayan, listed in Patna Cine Society's historical account.",
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-dangal-1977",
+      "entity_type": "film",
+      "name": "Dangal",
+      "status": "reviewed",
+      "summary": "Bhojpuri film directed by Rati Kumar and produced by Ashok Jain, listed in Patna Cine Society's historical account.",
+      "year": 1977,
+      "release_year": 1977,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-hamar-sansar-1965",
+      "entity_type": "film",
+      "name": "Hamar Sansar",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri film directed by Naseem, listed in Patna Cine Society's historical account.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-bidesia-1963",
+      "entity_type": "film",
+      "name": "Bidesia",
+      "status": "reviewed",
+      "summary": "Bhojpuri film directed by S. N. Tripathi and based around the folk-cultural world of Bhikhari Thakur, listed in Patna Cine Society's historical account.",
+      "year": 1963,
+      "release_year": 1963,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-ganga-maiya-1962",
+      "entity_type": "film",
+      "name": "Ganga Maiyya Tohe Piyari Chadhaibo",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account identifies this as the first Bhojpuri film, produced by Vishwanath Prasad Shahabadi of Bihar and directed by Kundan Kumar.",
+      "year": 1962,
+      "release_year": 1962,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "film-nadiya-ke-paar-1982",
+      "entity_type": "film",
+      "name": "Nadiya Ke Paar",
+      "status": "reviewed",
+      "summary": "Hindi film listed by Patna Cine Society among films carrying Bhojpuri cultural and linguistic elements.",
+      "year": 1982,
+      "release_year": 1982,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bhojpuri cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-b-n-prasad",
+      "entity_type": "person",
+      "name": "B. N. Prasad",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "judge",
+        "film-society founder"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-akbar-imam",
+      "entity_type": "person",
+      "name": "Akbar Imam",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "film-society founder"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-kumar-durganand-sinha",
+      "entity_type": "person",
+      "name": "Kumar Durganand Sinha",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "film-society founder"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-sita-sharan-srivastava",
+      "entity_type": "person",
+      "name": "Sita Sharan Srivastava",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "film-society founder"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-gyan-chandra",
+      "entity_type": "person",
+      "name": "Gyan Chandra",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "film-society founder"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-n-s-thapa",
+      "entity_type": "person",
+      "name": "N. S. Thapa",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "film society member",
+        "Film Division administrator"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-r-n-dash",
+      "entity_type": "person",
+      "name": "R. N. Dash",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "administrator",
+        "film-society leader",
+        "writer"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-kalyan-bhattacharya",
+      "entity_type": "person",
+      "name": "Kalyan Bhattacharya",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "actor",
+        "film-society organizer"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-sushil-kumar-srivastava",
+      "entity_type": "person",
+      "name": "Sushil Kumar Srivastava",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "cinema exhibitor"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-sumankumar-sinha",
+      "entity_type": "person",
+      "name": "Suman Kumar Sinha",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "cinema exhibitor"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-vishwanath-prasad-shahabadi",
+      "entity_type": "person",
+      "name": "Vishwanath Prasad Shahabadi",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "producer"
+      ],
+      "bihar_connections": [
+        "bihar-production"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-chitragupta",
+      "entity_type": "person",
+      "name": "Chitragupta",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "music composer"
+      ],
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-shailendra",
+      "entity_type": "person",
+      "name": "Shailendra",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "lyricist"
+      ],
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-asim-kumar",
+      "entity_type": "person",
+      "name": "Asim Kumar",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "person-nasir-hussain",
+      "entity_type": "person",
+      "name": "Nasir Hussain",
+      "status": "reviewed",
+      "summary": "Person documented in Patna Cine Society's historical account of cinema and the Bhojpuri film movement.",
+      "roles": [
+        "director",
+        "actor"
+      ],
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and Bhojpuri cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "person",
+        "film-fraternity",
+        "historical"
+      ]
+    },
+    {
+      "id": "place-patna-college",
+      "entity_type": "place",
+      "name": "Patna College",
+      "status": "reviewed",
+      "summary": "Institution connected to the founding history of Patna Film Society through Devi Das Chatterjee.",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "historical"
+      ]
+    },
+    {
+      "id": "place-patna-museum-area",
+      "entity_type": "place",
+      "name": "Patna Museum area",
+      "status": "reviewed",
+      "summary": "Geographic reference point for the Lady Stephenson Hall cinema history documented by Patna Cine Society.",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "historical"
+      ]
+    },
+    {
+      "id": "place-deo-estate",
+      "entity_type": "place",
+      "name": "Deo Estate",
+      "status": "reviewed",
+      "summary": "Production patronage context: Maharaja Bhupendra Narayan Singh of Deo is documented as producer of Punarmilan.",
+      "city": "Aurangabad",
+      "bihar_connections": [
+        "bihar-production"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "historical"
+      ]
     }
   ]
 }
