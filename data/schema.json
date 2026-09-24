@@ -1,0 +1,212 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bihar Cine Collective Research Record",
+  "type": "object",
+  "required": [
+    "id",
+    "entity_type",
+    "name",
+    "status",
+    "sources"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "entity_type": {
+      "enum": [
+        "film",
+        "person",
+        "place",
+        "organization",
+        "event",
+        "timeline",
+        "collection"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "alternate_names": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "enum": [
+        "seed",
+        "reviewed",
+        "verified",
+        "needs-review",
+        "archived"
+      ]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "language": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "film_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "roles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "bihar_connections": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "born-in-bihar",
+          "based-in-bihar",
+          "shot-in-bihar",
+          "story-set-in-bihar",
+          "language-culture",
+          "bihar-production",
+          "bihar-exhibition",
+          "bihar-event",
+          "bihar-institution",
+          "subject-about-bihar",
+          "documented-association"
+        ]
+      }
+    },
+    "district": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "credits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "person",
+          "role"
+        ],
+        "properties": {
+          "person": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "availability": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "platform": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "checked": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "external_ids": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url",
+          "title",
+          "source_type"
+        ],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "title": {
+            "type": "string"
+          },
+          "source_type": {
+            "enum": [
+              "official",
+              "database",
+              "archive",
+              "news",
+              "community",
+              "secondary"
+            ]
+          },
+          "retrieved": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "supports": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
