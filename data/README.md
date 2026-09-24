@@ -39,3 +39,19 @@ X, Reddit, YouTube, Instagram, forums and local communities are discovery surfac
 ## Current seed
 
 The first dataset is deliberately small. It establishes the schema and provenance workflow before scaling toward a substantially larger Bihar cinema index.
+
+
+## Primary-source research queue
+
+The next verification layer should target the Bihar State Archives and regional archives in Darbhanga, Bettiah and Bhagalpur. The Archives describes itself as a repository that preserves records and makes them available to bona fide researchers, and its public portal exposes digitized collections and archival-document services. The Collective should therefore treat archival references as first-class research objects rather than merely URLs attached to film records.
+
+Priority verification queues:
+1. Early Bihar exhibition history and cinema-hall records.
+2. Punarmilan (1931) production and exhibition documentation.
+3. Patna Film Society records, programmes and newspaper coverage from 1948 onward.
+4. First-decade Bhojpuri production and release chronology.
+5. Maithili, Magadhi and Angika film chronology.
+6. District-level shooting locations and surviving theatres.
+7. Film posters, stills, lobby cards, newspaper advertisements and programmes with rights metadata.
+
+Do not promote a historical claim from secondary to archival-verified merely because multiple secondary websites repeat it.
