@@ -26,9 +26,6 @@
           "role": "director"
         }
       ],
-      "external_ids": {
-        "imdb": "tt0250408"
-      },
       "sources": [
         {
           "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
@@ -61,7 +58,16 @@
             "historical context"
           ]
         }
-      ]
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ],
+      "release_year": 1963,
+      "production_year": 1962,
+      "notes": "IMDb lists the title as 1962; Bihar Foundation describes the film as a 1962 milestone, while multiple histories refer to the 1963 release. Keep production/release chronology explicit until primary archival evidence is added."
     },
     {
       "id": "film-bidesiya",
@@ -105,6 +111,12 @@
             "historical context"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
       ]
     },
     {
@@ -144,7 +156,13 @@
           ]
         }
       ],
-      "notes": "Historical first-film claims should receive primary/archival corroboration before status is upgraded."
+      "notes": "Historical first-film claims should receive primary/archival corroboration before status is upgraded.",
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "magadhi",
+        "film"
+      ]
     },
     {
       "id": "film-kanyadan",
@@ -190,7 +208,13 @@
           ]
         }
       ],
-      "notes": "Sources disagree on production/release chronology; preserve both dates when archival evidence is found."
+      "notes": "Sources disagree on production/release chronology; preserve both dates when archival evidence is found.",
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "maithili",
+        "film"
+      ]
     },
     {
       "id": "film-mithila-makhaan",
@@ -228,6 +252,12 @@
             "historical context"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "maithili",
+        "film"
       ]
     },
     {
@@ -256,6 +286,12 @@
             "Maithili context"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "maithili",
+        "film"
       ]
     },
     {
@@ -286,6 +322,12 @@
             "synopsis"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
       ]
     },
     {
@@ -312,6 +354,12 @@
             "profession"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "actor",
+        "person"
       ]
     },
     {
@@ -338,6 +386,12 @@
             "profession"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "actor",
+        "person"
       ]
     },
     {
@@ -367,6 +421,14 @@
             "profession"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "director",
+        "producer",
+        "actor",
+        "person"
       ]
     },
     {
@@ -392,6 +454,12 @@
             "profession"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "actor",
+        "person"
       ]
     },
     {
@@ -415,6 +483,11 @@
             "film club"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization"
       ]
     },
     {
@@ -439,6 +512,11 @@
             "film society activity"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "organization"
       ]
     },
     {
@@ -464,6 +542,11 @@
             "activities"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "event"
       ]
     },
     {
@@ -489,6 +572,11 @@
             "festival scope"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "event"
       ]
     },
     {
@@ -530,6 +618,11 @@
             "festival activity"
           ]
         }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place"
       ]
     },
     {
@@ -553,7 +646,12 @@
           ]
         }
       ],
-      "notes": "Needs archival/newspaper corroboration before publication as a definitive historical claim."
+      "notes": "Needs archival/newspaper corroboration before publication as a definitive historical claim.",
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "timeline"
+      ]
     }
   ]
 }
