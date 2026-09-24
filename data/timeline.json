@@ -91,6 +91,69 @@
       "sources": [
         "https://film.bihar.gov.in/photo/Fpolicy24.pdf"
       ]
+    },
+    {
+      "year": 1931,
+      "title": "Punarmilan and Bihar production",
+      "status": "reviewed",
+      "summary": "Patna Cine Society's historical account identifies Punarmilan as the first feature made in Bihar and Jharkhand, directed by Dhiren Ganguli and produced by Maharaja Bhupendra Narayan Singh of Deo.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 1946,
+      "title": "Bhojpuri enters Hindi cinema",
+      "status": "reviewed",
+      "summary": "Patna Cine Society's Bhojpuri history records a Bhojpuri song in a Filmistan production in 1946.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 1948,
+      "title": "Patna Film Society begins informally",
+      "status": "reviewed",
+      "summary": "The Patna Cine Society historical account dates the informal formation of Patna Film Society to 1948.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 1951,
+      "title": "Patna Film Society formally constituted",
+      "status": "reviewed",
+      "summary": "The society's historical account dates its formal committee formation to 1951 and identifies its founding office-bearers.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 1959,
+      "title": "Patna joins the national film-society network",
+      "status": "reviewed",
+      "summary": "Patna Film Society is documented as a founding member of the Federation of Film Societies of India.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 1974,
+      "title": "Cine Society, Patna",
+      "status": "reviewed",
+      "summary": "Patna Film Society was renamed Cine Society, Patna and registered under the Societies Registration Act according to its institutional history.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Bhojpuri cinema historical survey",
+      "status": "reviewed",
+      "summary": "R. N. Dash's historical survey published by Patna Cine Society records 135 Bhojpuri films produced from 1962 through 1993 and traces later industrial changes.",
+      "sources": [
+        "https://patnacinesociety.wordpress.com/"
+      ]
     }
   ]
 }
