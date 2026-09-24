@@ -1,39 +1,15 @@
-const overlay=document.getElementById("searchOverlay");
-
-const escapeHTML=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[c]));
-
-async function loadArchive(){
-  try{
-    const res=await fetch("data/seed.json");
-    if(!res.ok) throw new Error("Archive unavailable");
-    const db=await res.json();
-    const films=db.records.filter(r=>r.entity_type==="film");
-    const people=db.records.filter(r=>r.entity_type==="person");
-    const events=db.records.filter(r=>r.entity_type==="event");
-
-    document.getElementById("filmGrid").innerHTML=films.slice(0,6).map((f,i)=>`<article class="film film-${i%3}" data-search="${escapeHTML(f.name)} ${escapeHTML(f.language?.join(" "))}"><span class="year">${f.year??"—"} · ${escapeHTML(f.status)}</span><h3>${escapeHTML(f.name)}</h3><p>${escapeHTML(f.language?.join(" · ")||"Cinema")}</p></article>`).join("");
-
-    document.getElementById("peopleStrip").innerHTML=people.slice(0,4).map((p,i)=>`<article class="person" data-search="${escapeHTML(p.name)}"><div class="portrait"></div><h3>${escapeHTML(p.name)}</h3><p>${escapeHTML(p.roles?.join(" · ")||"FILM FRATERNITY")}</p></article>`).join("");
-
-    const eventList=document.querySelector(".event-list");
-    if(eventList&&events.length) eventList.innerHTML=events.map(e=>`<article><time>${escapeHTML(e.date||"UPCOMING")}</time><div><h3>${escapeHTML(e.name)}</h3><p>${escapeHTML(e.city||"Bihar")} · ${escapeHTML(e.summary||"Cinema event")}</p></div><a href="${escapeHTML(e.sources?.[0]?.url||"#")}" target="_blank" rel="noreferrer">Source →</a></article>`).join("");
-
-    document.querySelector(".search-overlay p").textContent=`${db.records.length} research records indexed · source-linked · ${db.version}`;
-
-    const input=document.getElementById("searchInput");
-    input.addEventListener("input",()=>searchArchive(input.value,db.records));
-  }catch(err){
-    console.error(err);
-  }
-}
-
-function searchArchive(query,records){
-  const q=query.trim().toLowerCase();
-  if(!q){document.querySelectorAll("[data-search]").forEach(el=>el.hidden=false);return;}
-  document.querySelectorAll("[data-search]").forEach(el=>{el.hidden=!el.dataset.search.toLowerCase().includes(q)});
-}
-
-document.getElementById("searchToggle").onclick=()=>{overlay.hidden=false;document.getElementById("searchInput").focus()};
-document.getElementById("searchClose").onclick=()=>overlay.hidden=true;
-document.addEventListener("keydown",e=>{if(e.key==="Escape")overlay.hidden=true});
-loadArchive();
+let DB=null;
+const overlay=document.getElementById('searchOverlay');
+const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+async function load(p){const r=await fetch(p);return r.json()}
+async function init(){try{const [db,rel,timeline]=await Promise.all([load('data/seed.json'),load('data/relationships.json'),load('data/timeline.json')]);DB={...db,edges:rel.edges,timeline:timeline.entries};renderFilms();renderPeople();renderEvents();renderArchive();renderTimeline();renderGraph();filters();document.querySelector('.search-overlay p').textContent=DB.records.length+' records · '+DB.edges.length+' relationships · '+DB.version}catch(e){console.error(e)}}
+function renderFilms(){const a=DB.records.filter(x=>x.entity_type==='film');document.getElementById('filmGrid').innerHTML=a.slice(0,6).map((x,i)=>'<article class="film film-'+i%3+'" data-open="'+x.id+'"><span class="year">'+(x.year||'—')+' · '+esc(x.status)+'</span><h3>'+esc(x.name)+'</h3><p>'+esc((x.language||[]).join(' · '))+'</p></article>').join('');bind()}
+function renderPeople(){const a=DB.records.filter(x=>x.entity_type==='person');document.getElementById('peopleStrip').innerHTML=a.slice(0,4).map(x=>'<article class="person" data-open="'+x.id+'"><div class="portrait"></div><h3>'+esc(x.name)+'</h3><p>'+esc((x.roles||[]).join(' · ')||'FILM FRATERNITY')+'</p></article>').join('');bind()}
+function renderEvents(){const a=DB.records.filter(x=>x.entity_type==='event');document.querySelector('.event-list').innerHTML=a.map(x=>'<article><time>'+esc(x.date||'UPCOMING')+'</time><div><h3>'+esc(x.name)+'</h3><p>'+esc(x.city||'Bihar')+'</p></div><a href="'+esc(x.sources?.[0]?.url||'#')+'" target="_blank">Source →</a></article>').join('')}
+function renderArchive(filter){let a=DB.records;if(filter==='film'||filter==='person')a=a.filter(x=>x.entity_type===filter);else if(['Maithili','Bhojpuri','Magadhi','Angika'].includes(filter))a=a.filter(x=>(x.language||[]).includes(filter));else if(filter==='2000')a=a.filter(x=>(x.year||0)>=2000);document.getElementById('resultsMeta').textContent=a.length+' records';document.getElementById('archiveResults').innerHTML=a.slice(0,50).map(x=>'<button class="archive-item" data-open="'+x.id+'"><span>'+esc(x.entity_type)+'</span><strong>'+esc(x.name)+'</strong><small>'+esc(x.year||x.city||x.district||'')+'</small></button>').join('');bind()}
+function filters(){document.querySelectorAll('#filters button').forEach(b=>b.onclick=()=>{document.querySelectorAll('#filters button').forEach(x=>x.classList.remove('active'));b.classList.add('active');renderArchive(b.dataset.filter)})}
+function renderTimeline(){document.querySelector('.timeline-section .timeline').innerHTML=DB.timeline.sort((a,b)=>(a.year||0)-(b.year||0)).map(x=>'<div><b>'+x.year+' · '+esc(x.status)+'</b><span>'+esc(x.title)+'</span><p>'+esc(x.summary)+'</p></div>').join('')}
+function renderGraph(){const s=document.getElementById('graphSvg'),ids=[...new Set(DB.edges.flatMap(e=>[e[0],e[1]]))].slice(0,20),pos={},by=Object.fromEntries(DB.records.map(x=>[x.id,x]));ids.forEach((id,i)=>{const a=i/ids.length*Math.PI*2;pos[id]=[500+400*Math.cos(a),210+155*Math.sin(a)]});s.innerHTML=DB.edges.filter(e=>pos[e[0]]&&pos[e[1]]).map(e=>'<line x1="'+pos[e[0]][0]+'" y1="'+pos[e[0]][1]+'" x2="'+pos[e[1]][0]+'" y2="'+pos[e[1]][1]+'"/>').join('')+ids.map(id=>'<g class="graph-node" data-open="'+id+'" transform="translate('+pos[id][0]+','+pos[id][1]+')"><circle r="5"/><text x="9" y="4">'+esc(by[id]?.name||id)+'</text></g>').join('');bind()}
+function bind(){document.querySelectorAll('[data-open]').forEach(x=>x.onclick=()=>openRecord(x.dataset.open))}
+function openRecord(id){const by=Object.fromEntries(DB.records.map(x=>[x.id,x])),r=by[id];if(!r)return;const related=DB.edges.filter(e=>e[0]===id||e[1]===id).map(e=>by[e[0]===id?e[1]:e[0]]).filter(Boolean);document.body.insertAdjacentHTML('beforeend','<div class="record-overlay" id="recordOverlay"><button class="record-close">×</button><p class="eyebrow">'+esc(r.entity_type)+' · '+esc(r.status)+'</p><h2>'+esc(r.name)+'</h2><p class="record-summary">'+esc(r.summary||'')+'</p><div class="record-meta">'+esc([r.year,r.city,r.district,...(r.language||[]),...(r.roles||[])].filter(Boolean).join(' · '))+'</div><h4>BIHAR CONNECTION</h4><p>'+esc((r.bihar_connections||[]).join(' · '))+'</p><h4>RELATED</h4><p>'+esc(related.map(x=>x.name).join(' · ')||'No linked records yet.')+'</p><h4>SOURCES</h4>'+(r.sources||[]).map(x=>'<a class="source-link" href="'+esc(x.url)+'" target="_blank">'+esc(x.title)+' →</a>').join('')+'</div>');document.querySelector('.record-close').onclick=()=>document.getElementById('recordOverlay').remove()}
+document.getElementById('searchToggle').onclick=()=>{overlay.hidden=false;document.getElementById('searchInput').focus()};document.getElementById('searchClose').onclick=()=>overlay.hidden=true;document.addEventListener('keydown',e=>{if(e.key==='Escape'){overlay.hidden=true;document.getElementById('recordOverlay')?.remove()}});init();
