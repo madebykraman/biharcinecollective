@@ -1,0 +1,5 @@
+const films=[{year:"1950s—",title:"The Bihar Frame",meta:"EARLY CINEMA · ARCHIVAL INDEX"},{year:"REGIONAL",title:"Bhojpuri",meta:"LANGUAGE · INDUSTRY · CULTURE"},{year:"CONTEMPORARY",title:"New Bihar",meta:"DOCUMENTARY · SHORTS · INDEPENDENT"}];
+const people=["Prakash Jha","Shatrughan Sinha","Manoj Bajpayee","Niraj Ghaywan"];
+document.getElementById("filmGrid").innerHTML=films.map(f=>`<article class="film"><span class="year">${f.year}</span><h3>${f.title}</h3><p>${f.meta}</p></article>`).join("");
+document.getElementById("peopleStrip").innerHTML=people.map((p,i)=>`<article class="person"><div class="portrait"></div><h3>${p}</h3><p>DOCUMENTED CONNECTION / 0${i+1}</p></article>`).join("");
+const overlay=document.getElementById("searchOverlay");document.getElementById("searchToggle").onclick=()=>{overlay.hidden=false;document.getElementById("searchInput").focus()};document.getElementById("searchClose").onclick=()=>overlay.hidden=true;document.addEventListener("keydown",e=>{if(e.key==="Escape")overlay.hidden=true});
