@@ -1,0 +1,559 @@
+{
+  "version": "0.1.0",
+  "updated": "2026-09-24",
+  "records": [
+    {
+      "id": "film-ganga-maiyya-tohe-piyari-chadhaibo",
+      "entity_type": "film",
+      "name": "Ganga Maiyya Tohe Piyari Chadhaibo",
+      "alternate_names": [
+        "Ganga Maiya Tohe Piyari Chadhaibo"
+      ],
+      "status": "reviewed",
+      "summary": "A foundational Bhojpuri-language film associated with the beginning of Bhojpuri cinema.",
+      "year": 1962,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "documented-association"
+      ],
+      "credits": [
+        {
+          "person": "person-kundan-kumar",
+          "role": "director"
+        }
+      ],
+      "external_ids": {
+        "imdb": "tt0250408"
+      },
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb — Bhojpuri feature search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "title",
+            "year",
+            "language"
+          ]
+        },
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Bihar Foundation — Culture: Cinema",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "historical significance",
+            "director",
+            "year"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "historical context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-bidesiya",
+      "entity_type": "film",
+      "name": "Bidesiya",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri cinema based on the Bidesiya cultural tradition and associated with the formative period of the regional industry.",
+      "year": 1963,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "documented-association"
+      ],
+      "credits": [
+        {
+          "person": "person-s-n-tripathi",
+          "role": "director"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb — Bhojpuri feature search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "title",
+            "year"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Media_in_Bihar",
+          "title": "Media in Bihar — Cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "director",
+            "historical context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-bhaiyaa",
+      "entity_type": "film",
+      "name": "Bhaiyaa",
+      "status": "needs-review",
+      "summary": "An early Magadhi-language film cited in Bihar cinema histories as the first Magadhi film.",
+      "year": 1961,
+      "language": [
+        "Magadhi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Bihar Foundation — Culture: Cinema",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "language",
+            "year",
+            "historical claim"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "historical context"
+          ]
+        }
+      ],
+      "notes": "Historical first-film claims should receive primary/archival corroboration before status is upgraded."
+    },
+    {
+      "id": "film-kanyadan",
+      "entity_type": "film",
+      "name": "Kanyadan",
+      "status": "needs-review",
+      "summary": "An early Maithili film based on Harimohan Jha's novel Kanyadan and directed by Phani Majumdar.",
+      "year": 1965,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "documented-association"
+      ],
+      "credits": [
+        {
+          "person": "person-phani-majumdar",
+          "role": "director"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maithili_cinema",
+          "title": "Maithili cinema",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "year",
+            "language",
+            "director",
+            "source novel"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "historical context"
+          ]
+        }
+      ],
+      "notes": "Sources disagree on production/release chronology; preserve both dates when archival evidence is found."
+    },
+    {
+      "id": "film-mithila-makhaan",
+      "entity_type": "film",
+      "name": "Mithila Makhaan",
+      "status": "reviewed",
+      "summary": "Maithili film connected to the contemporary Maithili cinema movement and recipient of the National Film Award for Best Maithili Film.",
+      "year": 2016,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "subject-about-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Bihar Foundation — Culture: Cinema",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "award",
+            "Maithili cinema"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "award",
+            "historical context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-gamak-ghar",
+      "entity_type": "film",
+      "name": "Gamak Ghar",
+      "status": "reviewed",
+      "summary": "A Maithili-language film whose festival history helped bring contemporary Maithili cinema to wider art-cinema audiences.",
+      "year": 2019,
+      "language": [
+        "Maithili"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture",
+        "subject-about-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "festival history",
+            "Maithili context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-dasha-aur-disha-50-years",
+      "entity_type": "film",
+      "name": "Dasha Aur Disha: 50 Years of Bhojpuri Cinema",
+      "status": "reviewed",
+      "summary": "A documentary tracing Bhojpuri cinema from its emergence through five decades of development and change.",
+      "year": 2013,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "documentary",
+      "bihar_connections": [
+        "language-culture",
+        "subject-about-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?locations=Patna%2C+Bihar%2C+India&sort=user_rating%2Cdesc",
+          "title": "IMDb — Patna/Bihar title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "title",
+            "year",
+            "format",
+            "synopsis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "person-manoj-bajpayee",
+      "entity_type": "person",
+      "name": "Manoj Bajpayee",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as being from West Champaran.",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "district": "West Champaran",
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development and Finance Corporation — Celebrities of Bihar",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "birth district",
+            "profession"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "person-pankaj-tripathi",
+      "entity_type": "person",
+      "name": "Pankaj Tripathi",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation as being from Gopalganj.",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "district": "Gopalganj",
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development and Finance Corporation — Celebrities of Bihar",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "birth district",
+            "profession"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "person-prakash-jha",
+      "entity_type": "person",
+      "name": "Prakash Jha",
+      "status": "reviewed",
+      "summary": "Filmmaker documented by the Bihar State Film Development and Finance Corporation as being associated with Bettiah, West Champaran.",
+      "roles": [
+        "director",
+        "producer",
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "district": "West Champaran",
+      "city": "Bettiah",
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development and Finance Corporation — Celebrities of Bihar",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "birth district",
+            "profession"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "person-shatrughan-sinha",
+      "entity_type": "person",
+      "name": "Shatrughan Sinha",
+      "status": "reviewed",
+      "summary": "Actor documented by the Bihar State Film Development and Finance Corporation among Bihar's cinema personalities.",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development and Finance Corporation — Celebrities of Bihar",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "Bihar association",
+            "profession"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "org-bihar-film-development-corporation",
+      "entity_type": "organization",
+      "name": "Bihar State Film Development and Finance Corporation Limited",
+      "status": "reviewed",
+      "summary": "State-linked film development body with location resources, film-club programming and information about Bihar's film ecosystem.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development and Finance Corporation",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "institution",
+            "locations",
+            "film club"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "org-patna-cine-society",
+      "entity_type": "organization",
+      "name": "Cine Society Patna",
+      "status": "reviewed",
+      "summary": "Patna film society describing recurring artistic and educational screenings, festivals, exhibitions, quizzes and training camps.",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "city": "Patna",
+      "sources": [
+        {
+          "url": "https://cinesocietypatna.wordpress.com/",
+          "title": "Cine Society Patna",
+          "source_type": "community",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "screenings",
+            "training",
+            "film society activity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "event-patliputra-iff",
+      "entity_type": "event",
+      "name": "Patliputra International Film Festival",
+      "status": "reviewed",
+      "summary": "Three-day film festival in Patna featuring screenings, panel discussions, masterclasses, workshops and a cine-symposium.",
+      "date": "2026",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-event"
+      ],
+      "sources": [
+        {
+          "url": "https://www.patliputraiff.in/",
+          "title": "Patliputra International Film Festival",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "festival format",
+            "Patna",
+            "activities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "event-bihar-international-film-festival-2026",
+      "entity_type": "event",
+      "name": "Bihar International Film Festival 2026",
+      "status": "reviewed",
+      "summary": "Festival listing published by the Indian Film Makers Association for Patna, including features, shorts, documentaries, animation, music videos, student and independent cinema.",
+      "date": "2026-09-25",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-event"
+      ],
+      "sources": [
+        {
+          "url": "https://ifma.in/ifma/",
+          "title": "Indian Film Makers Association — Bihar International Film Festival",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "date",
+            "venue",
+            "festival scope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "place-patna",
+      "entity_type": "place",
+      "name": "Patna",
+      "status": "reviewed",
+      "summary": "Bihar's capital and a documented site of early cinema exhibition, contemporary film society activity and film events.",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition",
+        "bihar-event"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "early exhibition history"
+          ]
+        },
+        {
+          "url": "https://cinesocietypatna.wordpress.com/",
+          "title": "Cine Society Patna",
+          "source_type": "community",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "film society activity"
+          ]
+        },
+        {
+          "url": "https://www.patliputraiff.in/",
+          "title": "Patliputra International Film Festival",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "festival activity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "timeline-early-exhibition-patna",
+      "entity_type": "timeline",
+      "name": "Early cinema exhibition in Patna",
+      "status": "needs-review",
+      "summary": "Sources describe early 20th-century cinema exhibition in Patna, including the Elphinstone Cinema and an early sound theatre.",
+      "year": 1902,
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_Bihar",
+          "title": "Cinema of Bihar",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "early exhibition history"
+          ]
+        }
+      ],
+      "notes": "Needs archival/newspaper corroboration before publication as a definitive historical claim."
+    }
+  ]
+}
