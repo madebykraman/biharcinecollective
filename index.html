@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#10100f">
+<meta name="description" content="Bihar Cine Collective — a living archive and discovery guide to cinema connected to Bihar.">
+<title>Bihar Cine Collective — Cinema of Bihar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="wordmark" href="/">BIHAR CINE <span>COLLECTIVE</span></a>
+  <nav>
+    <a href="#films">Films</a><a href="#people">People</a><a href="#places">Places</a><a href="#events">Events</a><a href="#history">History</a>
+  </nav>
+  <button class="search-button" id="searchToggle" aria-label="Open search">⌕ <span>Search</span></button>
+</header>
+
+<main>
+<section class="hero">
+  <div class="hero-index">BCC / 001 — AN OPEN ARCHIVE</div>
+  <div class="hero-copy">
+    <p class="eyebrow">CINEMA OF BIHAR</p>
+    <h1>A place to<br><em>find</em> Bihar<br>in cinema.</h1>
+    <p class="hero-deck">Films, filmmakers, places, histories, screenings and the people who make the moving image part of Bihar's cultural memory.</p>
+    <div class="hero-actions"><a class="button button-light" href="#films">Explore the archive</a><a class="text-link" href="#history">Enter the timeline →</a></div>
+  </div>
+  <div class="hero-meta"><span>24° 35′ N</span><span>85° 8′ E</span><span>BIHAR / INDIA</span></div>
+</section>
+
+<section class="manifesto">
+  <p class="section-number">01 / WHY THIS EXISTS</p>
+  <div>
+    <h2>Not another movie database.</h2>
+    <p>The Collective maps the relationship between Bihar and cinema: who made it, where it happened, what was filmed here, what was spoken here, and how it has been remembered.</p>
+  </div>
+</section>
+
+<section id="films" class="archive-section">
+  <div class="section-head"><div><p class="eyebrow">THE ARCHIVE</p><h2>Films</h2></div><a class="text-link" href="#">View all films →</a></div>
+  <div class="film-grid" id="filmGrid"></div>
+</section>
+
+<section id="people" class="dark-section">
+  <div class="section-head"><div><p class="eyebrow">THE FRATERNITY</p><h2>People who made the frame.</h2></div><a class="text-link light" href="#">Explore people →</a></div>
+  <div class="people-strip" id="peopleStrip"></div>
+</section>
+
+<section id="places" class="places-section">
+  <div class="section-head"><div><p class="eyebrow">THE MAP</p><h2>Places of cinema.</h2></div><p class="section-note">Halls, institutions, shooting locations, archives, societies and spaces where cinema is watched, taught and made.</p></div>
+  <div class="place-grid"><article><span>01</span><h3>Patna</h3><p>Screenings · institutions · film societies · production</p></article><article><span>02</span><h3>Muzaffarpur</h3><p>People · stories · regional culture</p></article><article><span>03</span><h3>Darbhanga</h3><p>Maithili cinema · music · heritage</p></article><article><span>04</span><h3>Across Bihar</h3><p>Locations · languages · overlooked histories</p></article></div>
+</section>
+
+<section id="history" class="timeline-section">
+  <p class="section-number">02 / A LIVING HISTORY</p>
+  <h2>Cinema is not a straight line.<br><em>It leaves traces.</em></h2>
+  <div class="timeline"><div><b>EARLY CINEMA</b><span>Foundations, exhibition and the first documented connections.</span></div><div><b>REGIONAL VOICES</b><span>Bhojpuri, Maithili, Magahi and other linguistic/cultural cinemas.</span></div><div><b>NEW INDEPENDENT WORK</b><span>Documentary, short film, experimental practice and new filmmakers.</span></div><div><b>TODAY</b><span>Festivals, workshops, screenings, digital distribution and a growing community.</span></div></div>
+</section>
+
+<section id="events" class="events-section">
+  <div class="section-head"><div><p class="eyebrow">WHAT'S HAPPENING</p><h2>Watch. Learn. Gather.</h2></div><a class="text-link" href="#">All events →</a></div>
+  <div class="event-list"><article><time>SOON</time><div><h3>Film screenings & retrospectives</h3><p>Patna · Bihar</p></div><a href="#">Discover →</a></article><article><time>ONGOING</time><div><h3>Workshops & masterclasses</h3><p>Filmmaking · writing · cinematography · editing</p></div><a href="#">Discover →</a></article></div>
+</section>
+
+<section class="closing">
+  <p class="eyebrow">BECOME PART OF THE ARCHIVE</p>
+  <h2>Know something<br>we don't?</h2>
+  <p>Suggest a film, person, place, source or correction. The archive grows through documented contributions.</p>
+  <a class="button button-dark" href="mailto:biharcinecollective@gmail.com">Contribute to the Collective</a>
+</section>
+</main>
+
+<footer><span>BIHAR CINE COLLECTIVE</span><span>A LIVING INDEX · 2026</span><span>MADE FOR DISCOVERY</span></footer>
+<div class="search-overlay" id="searchOverlay" hidden><button id="searchClose">×</button><input id="searchInput" placeholder="Search films, people, places…" autofocus><p>Search will become database-powered as the archive grows.</p></div>
+<script src="app.js"></script>
+</body>
+</html>
