@@ -7,7 +7,8 @@
     "entity_type",
     "name",
     "status",
-    "sources"
+    "sources",
+    "confidence"
   ],
   "properties": {
     "id": {
@@ -207,6 +208,37 @@
         "string",
         "null"
       ]
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "release_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "production_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "last_verified": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     }
   }
 }
