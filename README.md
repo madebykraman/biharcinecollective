@@ -202,3 +202,12 @@ The Collective's differentiation is regional depth, cultural memory, provenance,
 ## Current status
 
 Repository initialized on 24 September 2026. Next priority: research-backed schema, seed dataset and world-class editorial UI prototype.
+
+
+## Research expansion — September 2026
+
+The archive is now designed as a source-first cultural research system rather than a film list. The current research layer separates records, relationships, timeline entries and editorial collections. Every historical assertion should retain provenance and an explicit verification state. Official Bihar sources are prioritized for institutions, policy, events and Bihar-connected practitioners; film databases are metadata aids; secondary histories are used with caution; community posts are discovery leads rather than automatic evidence.
+
+The next ingestion target is 100–300 records across films, people, places, organizations, events and archival references. Expansion should happen in batches with duplicate detection, source capture, relationship mapping and uncertainty preserved. Do not manufacture completeness: an unverified historical claim remains visibly unverified.
+
+The Bihar State Film Development and Finance Corporation currently publishes film-production incentives, location and facilitation information, while Bihar's cultural authorities describe the state's regional-language cinema across Bhojpuri, Maithili, Magadhi and Angika. citeturn0search0turn0search8 The Bihar State Archives also provides a potential primary-source route for future historical verification. citeturn0search10
