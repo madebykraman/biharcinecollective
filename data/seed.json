@@ -1508,6 +1508,974 @@
         "Hindi cinema",
         "person"
       ]
+    },
+    {
+      "id": "film-ganga-jamuna",
+      "entity_type": "film",
+      "name": "Ganga Jamuna",
+      "status": "reviewed",
+      "summary": "Early film associated with the introduction of Bhojpuri dialogue on screen.",
+      "year": 1961,
+      "release_year": 1961,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://biharfoundation.in/know-your-bihar/art-culture/culture",
+          "title": "Bihar Foundation — Cinema",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-goswami-tulsidas",
+      "entity_type": "film",
+      "name": "Goswami Tulsidas",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri-language feature from the first decade of the industry.",
+      "year": 1964,
+      "release_year": 1964,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-bhouji",
+      "entity_type": "film",
+      "name": "Bhouji",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri feature listed in film databases.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-saiyan-se-neha-lagaibe",
+      "entity_type": "film",
+      "name": "Saiyan Se Neha Lagaibe",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri feature from the 1960s.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-ayeel-basant-bahar",
+      "entity_type": "film",
+      "name": "Ayeel Basant Bahar",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri feature from the 1960s.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-loha-singh",
+      "entity_type": "film",
+      "name": "Loha Singh",
+      "status": "reviewed",
+      "summary": "Early Bhojpuri feature associated with the formative period.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-balam-pardesia",
+      "entity_type": "film",
+      "name": "Balam Pardesia",
+      "status": "reviewed",
+      "summary": "Bhojpuri feature from the late 1970s.",
+      "year": 1979,
+      "release_year": 1979,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://www.imdb.com/search/title/?primary_language=bho&sort=year%2Casc&title_type=feature",
+          "title": "IMDb Bhojpuri title search",
+          "source_type": "database",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film"
+      ]
+    },
+    {
+      "id": "film-nadiya-ke-paar",
+      "entity_type": "film",
+      "name": "Nadiya Ke Paar",
+      "status": "needs-review",
+      "summary": "Hindi film strongly associated with Bihar's cultural landscape and later regional memory.",
+      "year": 1982,
+      "release_year": 1982,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "story-set-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nadiya_Ke_Paar_(1982_film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-damini",
+      "entity_type": "film",
+      "name": "Damini",
+      "status": "needs-review",
+      "summary": "Hindi feature with Bihar-connected production and cultural associations requiring further verification.",
+      "year": 1993,
+      "release_year": 1993,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Damini_(1993_film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-bandit-queen",
+      "entity_type": "film",
+      "name": "Bandit Queen",
+      "status": "needs-review",
+      "summary": "Hindi film with Bihar-adjacent North Indian cultural geography; connection requires verification.",
+      "year": 1994,
+      "release_year": 1994,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bandit_Queen",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-pukar",
+      "entity_type": "film",
+      "name": "Pukar",
+      "status": "needs-review",
+      "summary": "Hindi feature connected to Bihar through documented filming/context claims requiring source triangulation.",
+      "year": 2000,
+      "release_year": 2000,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pukar_(2000_film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-apaharan",
+      "entity_type": "film",
+      "name": "Apaharan",
+      "status": "needs-review",
+      "summary": "Hindi crime drama set in Bihar and central to screen representations of the state.",
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "story-set-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Apaharan",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-gangaa-jamunaa-saraswati",
+      "entity_type": "film",
+      "name": "Gangaa Jamunaa Saraswati",
+      "status": "needs-review",
+      "summary": "Hindi feature with regional associations requiring archival verification.",
+      "year": 1988,
+      "release_year": 1988,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ganga_Jamuna_Saraswati",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-gangaajal",
+      "entity_type": "film",
+      "name": "Gangaajal",
+      "status": "needs-review",
+      "summary": "Hindi crime drama directed by Prakash Jha and set in Bihar.",
+      "year": 2003,
+      "release_year": 2003,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "story-set-in-bihar",
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gangaajal",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-satyagraha",
+      "entity_type": "film",
+      "name": "Satyagraha",
+      "status": "needs-review",
+      "summary": "Hindi political drama directed by Prakash Jha and associated with Bihar locations/context.",
+      "year": 2013,
+      "release_year": 2013,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Satyagraha_(film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-jai-gangaajal",
+      "entity_type": "film",
+      "name": "Jai Gangaajal",
+      "status": "needs-review",
+      "summary": "Hindi crime drama directed by Prakash Jha and set in Bihar.",
+      "year": 2016,
+      "release_year": 2016,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "story-set-in-bihar",
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jai_Gangaajal",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-newton",
+      "entity_type": "film",
+      "name": "Newton",
+      "status": "needs-review",
+      "summary": "Hindi film that used Bihar as part of its fictional political geography and production context.",
+      "year": 2017,
+      "release_year": 2017,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "story-set-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Newton_(film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-gurgaon",
+      "entity_type": "film",
+      "name": "Gurgaon",
+      "status": "needs-review",
+      "summary": "Hindi crime drama with North Indian rural geography; Bihar connection requires further verification.",
+      "year": 2017,
+      "release_year": 2017,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gurgaon_(film)",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-sonchiriya",
+      "entity_type": "film",
+      "name": "Sonchiriya",
+      "status": "needs-review",
+      "summary": "Hindi film connected to the Chambal region rather than Bihar; retained as a research lead only.",
+      "year": 2019,
+      "release_year": 2019,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonchiriya",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "film-laal-singh-chaddha",
+      "entity_type": "film",
+      "name": "Laal Singh Chaddha",
+      "status": "needs-review",
+      "summary": "Hindi feature with Bihar-linked locations/context requiring verification.",
+      "year": 2022,
+      "release_year": 2022,
+      "language": [
+        "Hindi"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Laal_Singh_Chaddha",
+          "title": "Secondary film history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "hindi",
+        "film"
+      ]
+    },
+    {
+      "id": "person-vijaya-mulay",
+      "entity_type": "person",
+      "name": "Vijaya Mulay",
+      "status": "reviewed",
+      "summary": "Patna Cine Society history",
+      "roles": [
+        "director",
+        "documentarian",
+        "film historian"
+      ],
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "city": "Patna",
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-suhasini-mulay",
+      "entity_type": "person",
+      "name": "Suhasini Mulay",
+      "status": "reviewed",
+      "summary": "Patna Cine Society history",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "city": "Patna",
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-sanjay-mishra",
+      "entity_type": "person",
+      "name": "Sanjay Mishra",
+      "status": "reviewed",
+      "summary": "Bihar State Film Development & Finance Corporation celebrity listing",
+      "roles": [
+        "actor"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation celebrity listing",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-neetu-chandra",
+      "entity_type": "person",
+      "name": "Neetu Chandra",
+      "status": "reviewed",
+      "summary": "Bihar State Film Development & Finance Corporation celebrity listing",
+      "roles": [
+        "actor",
+        "producer"
+      ],
+      "bihar_connections": [
+        "born-in-bihar"
+      ],
+      "city": "Patna",
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation celebrity listing",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-ketan-mehta",
+      "entity_type": "person",
+      "name": "Ketan Mehta",
+      "status": "reviewed",
+      "summary": "Bihar State Film Development & Finance Corporation institutional history",
+      "roles": [
+        "director",
+        "producer"
+      ],
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation institutional history",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-mira-nair",
+      "entity_type": "person",
+      "name": "Mira Nair",
+      "status": "reviewed",
+      "summary": "Bihar State Film Development & Finance Corporation institutional history",
+      "roles": [
+        "director",
+        "producer"
+      ],
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation institutional history",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-satyajit-ray",
+      "entity_type": "person",
+      "name": "Satyajit Ray",
+      "status": "reviewed",
+      "summary": "Patna Film Society historical account",
+      "roles": [
+        "director",
+        "producer"
+      ],
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "city": "Patna",
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Film Society historical account",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
+    },
+    {
+      "id": "person-adoor-gopalakrishnan",
+      "entity_type": "person",
+      "name": "Adoor Gopalakrishnan",
+      "status": "reviewed",
+      "summary": "Bihar State Film Development & Finance Corporation institutional history",
+      "roles": [
+        "director"
+      ],
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bihar State Film Development & Finance Corporation institutional history",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "identity",
+            "film history",
+            "Bihar connection"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "person"
+      ]
     }
   ]
 }
