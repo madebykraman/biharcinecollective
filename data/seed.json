@@ -1790,111 +1790,6 @@
       ]
     },
     {
-      "id": "film-damini",
-      "entity_type": "film",
-      "name": "Damini",
-      "status": "needs-review",
-      "summary": "Hindi feature with Bihar-connected production and cultural associations requiring further verification.",
-      "year": 1993,
-      "release_year": 1993,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Damini_(1993_film)",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-bandit-queen",
-      "entity_type": "film",
-      "name": "Bandit Queen",
-      "status": "needs-review",
-      "summary": "Hindi film with Bihar-adjacent North Indian cultural geography; connection requires verification.",
-      "year": 1994,
-      "release_year": 1994,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Bandit_Queen",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-pukar",
-      "entity_type": "film",
-      "name": "Pukar",
-      "status": "needs-review",
-      "summary": "Hindi feature connected to Bihar through documented filming/context claims requiring source triangulation.",
-      "year": 2000,
-      "release_year": 2000,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Pukar_(2000_film)",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
       "id": "film-apaharan",
       "entity_type": "film",
       "name": "Apaharan",
@@ -1912,41 +1807,6 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Apaharan",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-gangaa-jamunaa-saraswati",
-      "entity_type": "film",
-      "name": "Gangaa Jamunaa Saraswati",
-      "status": "needs-review",
-      "summary": "Hindi feature with regional associations requiring archival verification.",
-      "year": 1988,
-      "release_year": 1988,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Ganga_Jamuna_Saraswati",
           "title": "Secondary film history",
           "source_type": "secondary",
           "retrieved": "2026-09-24",
@@ -2001,41 +1861,6 @@
       ]
     },
     {
-      "id": "film-satyagraha",
-      "entity_type": "film",
-      "name": "Satyagraha",
-      "status": "needs-review",
-      "summary": "Hindi political drama directed by Prakash Jha and associated with Bihar locations/context.",
-      "year": 2013,
-      "release_year": 2013,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Satyagraha_(film)",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
       "id": "film-jai-gangaajal",
       "entity_type": "film",
       "name": "Jai Gangaajal",
@@ -2054,146 +1879,6 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Jai_Gangaajal",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-newton",
-      "entity_type": "film",
-      "name": "Newton",
-      "status": "needs-review",
-      "summary": "Hindi film that used Bihar as part of its fictional political geography and production context.",
-      "year": 2017,
-      "release_year": 2017,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "story-set-in-bihar"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Newton_(film)",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-gurgaon",
-      "entity_type": "film",
-      "name": "Gurgaon",
-      "status": "needs-review",
-      "summary": "Hindi crime drama with North Indian rural geography; Bihar connection requires further verification.",
-      "year": 2017,
-      "release_year": 2017,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Gurgaon_(film)",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-sonchiriya",
-      "entity_type": "film",
-      "name": "Sonchiriya",
-      "status": "needs-review",
-      "summary": "Hindi film connected to the Chambal region rather than Bihar; retained as a research lead only.",
-      "year": 2019,
-      "release_year": 2019,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Sonchiriya",
-          "title": "Secondary film history",
-          "source_type": "secondary",
-          "retrieved": "2026-09-24",
-          "supports": [
-            "identity",
-            "film history",
-            "Bihar connection"
-          ]
-        }
-      ],
-      "confidence": "medium",
-      "last_verified": "2026-09-24",
-      "tags": [
-        "hindi",
-        "film"
-      ]
-    },
-    {
-      "id": "film-laal-singh-chaddha",
-      "entity_type": "film",
-      "name": "Laal Singh Chaddha",
-      "status": "needs-review",
-      "summary": "Hindi feature with Bihar-linked locations/context requiring verification.",
-      "year": 2022,
-      "release_year": 2022,
-      "language": [
-        "Hindi"
-      ],
-      "film_type": "feature",
-      "bihar_connections": [
-        "documented-association"
-      ],
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Laal_Singh_Chaddha",
           "title": "Secondary film history",
           "source_type": "secondary",
           "retrieved": "2026-09-24",
@@ -2475,6 +2160,1131 @@
       "tags": [
         "film-fraternity",
         "person"
+      ]
+    },
+    {
+      "id": "film-hamar-sansar",
+      "entity_type": "film",
+      "name": "Hamar Sansar",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1965,
+      "release_year": 1965,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-dangal",
+      "entity_type": "film",
+      "name": "Dangal",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1977,
+      "release_year": 1977,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-rus-gailo-saiyan-hamar",
+      "entity_type": "film",
+      "name": "Rus Gailo Saiyan Hamar",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1970,
+      "release_year": 1970,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-dharti-maiya",
+      "entity_type": "film",
+      "name": "Dharti Maiya",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1981,
+      "release_year": 1981,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-ganga-kinare-mere-gaon",
+      "entity_type": "film",
+      "name": "Ganga Kinare Mere Gaon",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1983,
+      "release_year": 1983,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-hamar-bhouji",
+      "entity_type": "film",
+      "name": "Hamar Bhouji",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1984,
+      "release_year": 1984,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-bihari-babu",
+      "entity_type": "film",
+      "name": "Bihari Babu",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1985,
+      "release_year": 1985,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-dagabaaz-balma",
+      "entity_type": "film",
+      "name": "Dagabaaz Balma",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 1988,
+      "release_year": 1988,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-kab-hoega-gawna-hamar",
+      "entity_type": "film",
+      "name": "Kab Hoega Gawna Hamar",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-naihar-ke-chunari",
+      "entity_type": "film",
+      "name": "Naihar Ke Chunari",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-sajan-chale-sasural",
+      "entity_type": "film",
+      "name": "Sajan Chale Sasural",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2006,
+      "release_year": 2006,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-ganga",
+      "entity_type": "film",
+      "name": "Ganga",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2006,
+      "release_year": 2006,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-bhojpuriya-bhaiya",
+      "entity_type": "film",
+      "name": "Bhojpuriya Bhaiya",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2007,
+      "release_year": 2007,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-bhojpuriya-raja",
+      "entity_type": "film",
+      "name": "Bhojpuriya Raja",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2009,
+      "release_year": 2009,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-sasura-bada-paisawala",
+      "entity_type": "film",
+      "name": "Sasura Bada Paisawala",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2005,
+      "release_year": 2005,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-daroga-babu-i-love-you",
+      "entity_type": "film",
+      "name": "Daroga Babu I Love You",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2004,
+      "release_year": 2004,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-nirahua-rikshawala",
+      "entity_type": "film",
+      "name": "Nirahua Rikshawala",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2008,
+      "release_year": 2008,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-dulhe-raja",
+      "entity_type": "film",
+      "name": "Dulhe Raja",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2012,
+      "release_year": 2012,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "film-jaan-tere-naam",
+      "entity_type": "film",
+      "name": "Jaan Tere Naam",
+      "status": "needs-review",
+      "summary": "Film listed in a Patna Cine Society historical account of Bhojpuri cinema; metadata and chronology require cross-checking against film databases and archival sources.",
+      "year": 2011,
+      "release_year": 2011,
+      "language": [
+        "Bhojpuri"
+      ],
+      "film_type": "feature",
+      "bihar_connections": [
+        "language-culture"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — Bihar cinema history",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "bhojpuri",
+        "film",
+        "historical-lead"
+      ]
+    },
+    {
+      "id": "place-ghora-katora",
+      "entity_type": "place",
+      "name": "Ghora Katora",
+      "status": "reviewed",
+      "summary": "Popular Bihar filming/location resource documented by BSFDFC.",
+      "city": "Rajgir",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Ghora Katora — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-tutula-bhawani",
+      "entity_type": "place",
+      "name": "Tutula Bhawani",
+      "status": "reviewed",
+      "summary": "Natural landscape documented by BSFDFC as a Bihar location resource.",
+      "city": "Rohtas",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Tutula Bhawani — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-sher-shah-suri-tomb",
+      "entity_type": "place",
+      "name": "Sher Shah Suri Tomb",
+      "status": "reviewed",
+      "summary": "Historic monument documented among Bihar's cinematic location resources.",
+      "city": "Sasaram",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Sher Shah Suri Tomb — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-pawapuri",
+      "entity_type": "place",
+      "name": "Pawapuri",
+      "status": "reviewed",
+      "summary": "Bihar location promoted by BSFDFC for film and visual production.",
+      "city": "Nalanda",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Pawapuri — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-bapu-tower",
+      "entity_type": "place",
+      "name": "Bapu Tower",
+      "status": "reviewed",
+      "summary": "Patna landmark included in BSFDFC's film-location catalogue.",
+      "city": "Patna",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Bapu Tower — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-hiuen-tsang-memorial-hall",
+      "entity_type": "place",
+      "name": "Hiuen Tsang Memorial Hall",
+      "status": "reviewed",
+      "summary": "Nalanda location included in BSFDFC's film-location catalogue.",
+      "city": "Nalanda",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Hiuen Tsang Memorial Hall — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-glass-bridge",
+      "entity_type": "place",
+      "name": "Glass Bridge",
+      "status": "reviewed",
+      "summary": "Rajgir location included in BSFDFC's film-location catalogue.",
+      "city": "Rajgir",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Glass Bridge — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-jungle-safari",
+      "entity_type": "place",
+      "name": "Jungle Safari",
+      "status": "reviewed",
+      "summary": "Rajgir location included in BSFDFC's film-location catalogue.",
+      "city": "Rajgir",
+      "bihar_connections": [
+        "shot-in-bihar"
+      ],
+      "sources": [
+        {
+          "url": "https://film.bihar.gov.in/",
+          "title": "Jungle Safari — Bihar cinema/location research",
+          "source_type": "official",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-lady-stephenson-hall",
+      "entity_type": "place",
+      "name": "Lady Stephenson Hall",
+      "status": "reviewed",
+      "summary": "Historic Patna screening venue associated with the city's early film-society movement.",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Lady Stephenson Hall — Bihar cinema/location research",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "place-regent-cinema",
+      "entity_type": "place",
+      "name": "Regent Cinema",
+      "status": "reviewed",
+      "summary": "Historic Patna cinema associated with the city's exhibition history.",
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-exhibition"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Regent Cinema — Bihar cinema/location research",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "place",
+        "bihar"
+      ]
+    },
+    {
+      "id": "person-devi-das-chatterjee",
+      "entity_type": "person",
+      "name": "Devi Das Chatterjee",
+      "status": "needs-review",
+      "summary": "Named in Patna Cine Society's institutional history and cinema activity documentation.",
+      "roles": [
+        "film society founder",
+        "academic"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and activity",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "patna",
+        "research-lead"
+      ]
+    },
+    {
+      "id": "person-arun-rai-chowdhury",
+      "entity_type": "person",
+      "name": "Arun Rai Chowdhury",
+      "status": "needs-review",
+      "summary": "Named in Patna Cine Society's institutional history and cinema activity documentation.",
+      "roles": [
+        "film critic",
+        "journalist"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and activity",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "patna",
+        "research-lead"
+      ]
+    },
+    {
+      "id": "person-r-n-das",
+      "entity_type": "person",
+      "name": "R. N. Das",
+      "status": "needs-review",
+      "summary": "Named in Patna Cine Society's institutional history and cinema activity documentation.",
+      "roles": [
+        "film society leader",
+        "administrator"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "bihar-institution"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and activity",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "patna",
+        "research-lead"
+      ]
+    },
+    {
+      "id": "person-n-n-pandey",
+      "entity_type": "person",
+      "name": "N. N. Pandey",
+      "status": "needs-review",
+      "summary": "Named in Patna Cine Society's institutional history and cinema activity documentation.",
+      "roles": [
+        "actor",
+        "film scholar"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and activity",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "patna",
+        "research-lead"
+      ]
+    },
+    {
+      "id": "person-vinod-anupam",
+      "entity_type": "person",
+      "name": "Vinod Anupam",
+      "status": "needs-review",
+      "summary": "Named in Patna Cine Society's institutional history and cinema activity documentation.",
+      "roles": [
+        "film critic",
+        "journalist"
+      ],
+      "city": "Patna",
+      "bihar_connections": [
+        "documented-association"
+      ],
+      "sources": [
+        {
+          "url": "https://patnacinesociety.wordpress.com/",
+          "title": "Patna Cine Society — history and activity",
+          "source_type": "secondary",
+          "retrieved": "2026-09-24",
+          "supports": [
+            "filmography",
+            "Bihar cinema history"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "last_verified": "2026-09-24",
+      "tags": [
+        "film-fraternity",
+        "patna",
+        "research-lead"
       ]
     }
   ]
