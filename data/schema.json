@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Bihar Cine Collective Research Record",
+  "title": "Bihar Cine Collective Research Database Schema",
   "type": "object",
   "required": [
     "id",
@@ -238,6 +238,199 @@
       "type": "array",
       "items": {
         "type": "string"
+      }
+    },
+    "relationships": {
+      "$ref": "#/$defs/relationship"
+    },
+    "media_assets": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/media"
+      }
+    },
+    "identifiers": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/identifier"
+      }
+    },
+    "verification": {
+      "$ref": "#/$defs/verification"
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "title",
+        "source_type"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "title": {
+          "type": "string"
+        },
+        "source_type": {
+          "enum": [
+            "official",
+            "database",
+            "archive",
+            "news",
+            "community",
+            "secondary"
+          ]
+        },
+        "retrieved": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "supports": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "relationship": {
+      "type": "object",
+      "required": [
+        "from",
+        "to",
+        "type"
+      ],
+      "properties": {
+        "from": {
+          "type": "string"
+        },
+        "to": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "required": [
+        "url",
+        "media_type"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "media_type": {
+          "enum": [
+            "poster",
+            "still",
+            "portrait",
+            "location",
+            "document",
+            "video"
+          ]
+        },
+        "rights_status": {
+          "enum": [
+            "unknown",
+            "public-domain",
+            "licensed",
+            "fair-use-context",
+            "permission-required"
+          ]
+        },
+        "credit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "identifier": {
+      "type": "object",
+      "required": [
+        "namespace",
+        "value"
+      ],
+      "properties": {
+        "namespace": {
+          "type": "string"
+        },
+        "value": {
+          "type": "string"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "type": "object",
+      "properties": {
+        "state": {
+          "enum": [
+            "unverified",
+            "partially-verified",
+            "verified",
+            "archival-verified"
+          ]
+        },
+        "checked_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "checked_on": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       }
     }
   }
