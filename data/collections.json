@@ -1,0 +1,32 @@
+[
+  {
+    "id": "collection-first-languages",
+    "title": "When Bihar found its languages on screen",
+    "description": "Early Magadhi, Bhojpuri and Maithili milestones.",
+    "records": [
+      "film-bhaiyaa",
+      "film-ganga-maiyya-tohe-piyari-chadhaibo",
+      "film-bidesiya",
+      "film-kanyadan-1965"
+    ]
+  },
+  {
+    "id": "collection-maithili-modern",
+    "title": "A newer Maithili cinema",
+    "description": "Films that carry Maithili cinema into contemporary art and festival circuits.",
+    "records": [
+      "film-mithila-makhaan-2016",
+      "film-gamak-ghar-2019"
+    ]
+  },
+  {
+    "id": "collection-bhojpuri-revival",
+    "title": "The Bhojpuri revival",
+    "description": "A small trail through the industry's early-2000s resurgence.",
+    "records": [
+      "film-saiyyan-hamar",
+      "film-panditji-batai-na-biyah-kab-hoi",
+      "film-sasura-bada-paisa-wala"
+    ]
+  }
+]
